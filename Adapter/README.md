@@ -10,5 +10,5 @@ Elementos del adapter:
     -Target: define la interface que utilizara el cliente
     -Adaptee: Es la clase adaptada, Define la interface existente que necesita adaptarse
     -Adapter: El adaptador, Es la interface que trabajara con el target, se encarga de la funcionalidad.
-    
 
+Lo que busca es adaptar diferentes metodos o metodos que ya existen dentro de tu programa a nuevas metodologias o requerimientos
