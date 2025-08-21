@@ -10,7 +10,7 @@ public class main {
         item = new itemCAdapter(); 
         item = new itemB();
         item = new itemA();
-        
+
         itemA.access();
         itemB.access();
         item.access();
